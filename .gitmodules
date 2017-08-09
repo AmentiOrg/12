@@ -1,0 +1,3 @@
+[submodule "h"]
+	path = h
+	url = git@github.com:AmentiOrg/h.git
